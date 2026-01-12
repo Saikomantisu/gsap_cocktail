@@ -26,7 +26,7 @@ const Art = () => {
         ease: 'power1.inOut',
       })
       .to('.masked-img', {
-        scale: 1.3,
+        scale: 1.5,
         maskPosition: 'center',
         maskSize: '400%',
         duration: 1,
